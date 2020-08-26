@@ -4,5 +4,16 @@ Send repeated messages to one person
 
 ## Instruction 
 
-Open the whatsapp web in full screen and run the code in the terminal.  
-Remember that, to the program work the the whatsapp icon search must be visible on the screen and your whats theme must be light.
+To the program work the following conditions must apply: 
+- The whatsapp web must be in full screen 
+- Whatsapp icon search must be visible on the screen 
+- Your whatsapp theme must be light.
+
+## Dependencies
+
+
+- pyautogui 
+
+```
+pip install pyautogui
+```
