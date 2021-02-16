@@ -1,8 +1,12 @@
-# whatsapp_joker
+<h3 align="center">
+   WhatsAppJoker
+</h3> 
+<p align="center"> 
 Send repeated messages to one person
+  </p> 
 
 
-## Instruction 
+## Requirements
 
 To the program work the following conditions must apply: 
 - The whatsapp web must be in full screen 
@@ -16,4 +20,9 @@ To the program work the following conditions must apply:
 
 ```
 pip install pyautogui
+```
+
+## How to run 
+```bash
+$ python whatsapp_automatic.py
 ```
